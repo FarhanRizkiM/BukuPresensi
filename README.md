@@ -30,6 +30,9 @@ Nizar adalah seorang anak sulung yang tumbuh di Wanayasa. Minat utamanya adalah 
 
 * Penulis 4 :
 
+![image](https://github.com/FarhanRizkiM/BukuPresensi/assets/110893795/bd139a4d-cc9d-4daa-bbd6-9ada5dace0b8)
+
+
 * Biografi Penulis 4 :
 
 Ryaas Ishlah Ramadhan, lahir di Kota Bandung pada tanggal 13 November 2002. Pendidikan tingkat dasar hingga menengah ditempuh di Bandung. Mulai mengoding sejak kuliah, melatih pengodinganya di ULBI Bandung, Pengurus OSIS pada saat smp dan mengikuti eskul futsal. Melanjutkan pendidikan D4 di Universitas Logistik dan Bisnis Internasional dengan jurusan Teknik informatika. Saya Sangat menyukai teknogi canggih dan menyukai sepakbola dan ingin mempunyai usaha sendiri bersama keluarga dengan membagi tugas sesuai kemampuanya.
